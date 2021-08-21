@@ -1,0 +1,39 @@
+body {
+    font-family : 'Style Script', cursive;
+    color : White;
+    background-color: Teal;
+}
+
+.header-div {
+    background-color: white;
+    color : rgb(0, 173, 159);
+}
+
+.header-div p {
+    letter-spacing: 2px;
+    color : grey;
+    font-size: 12px;
+    font-weight: 900;   
+}
+
+.main-div button {
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bolder;
+}
+
+.copyright {
+    position: fixed;
+    color: aquamarine;
+    bottom: 0;
+    background-color: midnightblue;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px plum;
+}
+
+.main-div {
+    padding-bottom: 70px;
+}
